@@ -6,7 +6,7 @@
 - 2020 profit decline and COVID impact analysis
 - Strategic product diversification recommendations
 
-🔗 [Read the Medium article](https://your-medium-link.com)
+🔗 [Read the Medium article](https://medium.com/@chryxtopher/from-bikes-to-bottom-line-what-my-regional-sales-dashboard-revealed-633b5c5e60bb)
 
 ## Highlights
 - Total Revenue: $47M
